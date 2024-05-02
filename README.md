@@ -1,12 +1,12 @@
-CID_362_Athena_Commando_F_BandageNinja, 1500
-CID_361_Athena_Commando_M_BandageNinja, 1500
-Pickaxe_ID_172_BandageNinja, 500
+CID_648_Athena_Commando_F_MsAlpine, 1200
+CID_653_Athena_Commando_F_UglySweaterFrozen, 1200
+Pickaxe_ID_363_LollipopTricksterFemale, 800
 na
 na
 na
-CID_027_Athena_Commando_F, 1200
-HalloweenScythe, 800
+CID_703_Athena_Commando_M_Cyclone, 1500
+CID_715_Athena_Commando_F_TwinDark, 1200
 Wrap_018_Magma, 600
-CID_546_Athena_Commando_F_TacticalRed, 800
-Pickaxe_ID_138_Gnome, 800
-EID_Camouflage, 1000
+Glider_ID_206_Donut, 1200
+EID_NeverGonna, 500
+EID_CycloneHeadBang, 500
